@@ -22,4 +22,7 @@ $response = $http->run();
 $response->send();
 
 $http->end($response);
+<<<<<<< HEAD
 phpinfo();
+=======
+>>>>>>> 265228e771d0f16eb900a1e20d6796aa4975a9b3
